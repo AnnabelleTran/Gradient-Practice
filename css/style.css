@@ -1,0 +1,19 @@
+.linear{
+    background: linear-gradient(rgb(84, 14, 102) 50px, rgb(173, 15, 41) 100px, rgb(255, 123, 0) 250px);
+    height: 20vw;
+    color: white;
+    text-align: center;
+}
+.radial{
+background:
+radial-gradient(rgb(230, 189, 57), rgb(250, 192, 68),rgb(245, 174, 67),
+rgb(255, 123, 0),rgb(255, 123, 0));
+height: 20vw;
+text-align: center;
+}
+.linear2{
+    background: repeating-linear-gradient(rgb(155, 94, 4) 30%, rgb(68, 35, 4) 50%, rgb(37, 23, 0) 70%);
+    height: 20vw;
+    color: white;
+    text-align: center;
+}
